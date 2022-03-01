@@ -2,7 +2,7 @@
 
 Hay varias formas de instalar paquetes. Hoy te cuento una con la que podes instalar y llamar varios paquetes juntos!👌
 
-Si te resulta más fácil, podes copiar y pegar los pasos en todos tus trabajos.
+![](images/que-significado-tienen-las-mamushkas.jpg){width="489"}
 
 Te muestro el proceso de 3 pasos 🚀
 
@@ -52,6 +52,6 @@ ipak(packages)
 
     Listo!  paquetes instalados!! Ahora a trabajar! 📊
 
---------
+------------------------------------------------------------------------
 
 [Yanel Paulette](https://yanelpaulette.netlify.app/)
